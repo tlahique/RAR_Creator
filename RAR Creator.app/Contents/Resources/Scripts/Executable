@@ -1,0 +1,3 @@
+cd ~/Desktop/RAR
+/Applications/RAR\ Creator.app/Contents/Resources/Rar/rar a RAR
+mv ~/Desktop/RAR/RAR.rar ~/Desktop
